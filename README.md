@@ -26,7 +26,8 @@ Certifique-se de ter o Python instalado em sua máquina.
 
 ### 1. Instalação das bibliotecas
 ```bash
-pip install pandas openpyxl fpdf pypdf ```
+pip install  pandas openpyxl fpdf pypdf 
+```
 
 ### 2. Configuração
 Para rodar o script de envio de e-mails, é necessário configurar uma Senha de App do Google para garantir a segurança da conta.
@@ -37,13 +38,23 @@ Nota: Por questões de segurança, as credenciais não estão incluídas no repo
 Bash
 python automacao_completa.py
 
-##📝 Estrutura dos Dados (Exemplo)
-A planilha de entrada (dados.xlsx) deve seguir este formato:
+---
+
+### Parte 4: A Tabela e Autora
+Aqui está a tabela formatada corretamente e seus créditos. Copie e cole para finalizar:
+
+```markdown
+## 📝 Estrutura dos Dados (Exemplo)
+A planilha de entrada (`dados.xlsx`) deve seguir este formato:
+
 | nome_completo | data_nascimento | banco | data_inclusao | email_banco |
 | :--- | :--- | :--- | :--- | :--- |
 | Cecília Mendes | 15/05/2001 | Nubank | 10/01/2026 | exemplo@email.com |
 
-👩‍💻 Autora
-Cecília - Estudante de Análise e Desenvolvimento de Sistemas (ETEP EAD) Foco em Desenvolvimento Backend e Full-Stack.
+## 👩‍💻 Autora
 
-Projeto desenvolvido para fins de estudo em Python e Automação.
+**Cecília** - Estudante de Análise e Desenvolvimento de Sistemas (ETEP EAD)
+Foco em Desenvolvimento Backend e Full-Stack.
+
+---
+*Projeto desenvolvido para fins de estudo em Python e Automação.*
