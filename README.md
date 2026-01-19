@@ -31,10 +31,10 @@ pip install pandas openpyxl fpdf pypdf
 2. Configuração
 Para rodar o script de envio de e-mails, é necessário configurar uma Senha de App do Google para garantir a segurança da conta.
 
-Nota: Por questões de segurança, as credenciais não estão incluídas no repositório. Configure as variáveis MEU_EMAIL e MINHA_SENHA no arquivo automacao_completa.py.
+Nota: Por questões de segurança, as credenciais não estão incluídas no repositório. Configure as variáveis MEU_EMAIL e MINHA_SENHA no arquivo automacao_completa.py. ```
 
 3. Execução
-```bash
+Bash
 python automacao_completa.py
 
 📝 Estrutura dos Dados (Exemplo)
