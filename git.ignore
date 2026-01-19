@@ -1,0 +1,10 @@
+# Ignorar dados e relatórios
+dados.xlsx
+Relatorios_Finais/
+Relatorios_Sigilosos/
+Aula_automacao/
+
+# Ignorar arquivos de sistema e Python
+__pycache__/
+*.pyc
+.env
