@@ -40,8 +40,7 @@ python automacao_completa.py
 
 ---
 
-### Parte 4: A Tabela e Autora
-Aqui está a tabela formatada corretamente e seus créditos. Copie e cole para finalizar:
+### 4. A Tabela e Autora
 
 ```markdown
 ## 📝 Estrutura dos Dados (Exemplo)
