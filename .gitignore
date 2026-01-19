@@ -1,0 +1,10 @@
+# Pastas para ignorar
+Aula_automacao/
+Relatorios_Finais/
+Relatorios_Sigilosos/
+projeto M/__pycache__/
+
+# Arquivos para ignorar
+dados.xlsx
+.env
+*.pyc
